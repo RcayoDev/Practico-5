@@ -4,7 +4,30 @@
 }
 
 body{
-  background-color: gray;
+  background-color: #fff;
   width: 100%;
   height: auto;
+}
+.container{
+  background-color: blue;
+  width: 50%;
+  height: auto;
+}
+#output {
+  background-color: green;
+  width: 50%;
+  height: auto;
+}
+#ñcontenedor-grande{
+  background-color: black;
+}
+.contenedor-uno{
+  background-color: #00FF00;
+  margin-left: 20%;
+  width: 50%;
+}
+.contenedor-dos{
+  background-color: #FF0000;
+  margin-left: 60%; 
+  width: 30%;
 }
